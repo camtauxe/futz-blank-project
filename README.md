@@ -1,6 +1,6 @@
 # Futz Blank Project
 
-## For Futz Version: 0.1
+## For Futz Version: 0.2
 
 **See the main Futz repository: [HERE](https://github.com/camtauxe/futz)**
 
